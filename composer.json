@@ -1,0 +1,22 @@
+{
+
+	"name":"Cisco/composer",
+	"authors": [
+		{
+		
+			"name": "Bogdan Gheorghe",
+			"email": "bogdangheorghe@ramo.ro"
+		}
+		
+	],
+	"require": {},
+	"autoload":{
+		"classmap": [
+			"."
+		]
+	
+	
+	}
+
+
+}
